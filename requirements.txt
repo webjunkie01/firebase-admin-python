@@ -4,5 +4,5 @@ pytest-cov >= 2.4.0
 tox >= 2.6.0
 
 google-auth >= 1.0.0
-requests >= 2.13.0
+requests
 six >= 1.6.1
